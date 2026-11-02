@@ -6,7 +6,6 @@ of a subreddit.
 import os
 # import requests
 import sys
-
 def top_ten(subreddit):
     """Print the titles of the first 10 hot posts of a given subreddit.
 
