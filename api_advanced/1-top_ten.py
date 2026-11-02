@@ -6,12 +6,10 @@ of a subreddit.
 import os
 # import requests
 import sys
+
+
 def top_ten(subreddit):
     """Print the titles of the first 10 hot posts of a given subreddit.
-
-
-
-
     Print None if the subreddit is invalid.
     """
     os.write(1, b"OK")
